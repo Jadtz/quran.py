@@ -1,1 +1,0 @@
-from quran import Quran
