@@ -6,7 +6,7 @@ class Ajza:
 
     def __init__(self):
         """Initialize"""
-
+        
         self.api = 'https://api.quran.com/api/v4/juzs' 
 
     def juzs_list(self, lang='en'):
