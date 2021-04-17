@@ -7,7 +7,6 @@ class Translation:
 
     def __init__(self):
         """Initialize"""
-
         self.api_1 = 'https://api.quran.com/api/v4/resources/translations'
         self.api_2 = 'https://api.quran.com/api/v4/quran/translations'
 
