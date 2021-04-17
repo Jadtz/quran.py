@@ -66,6 +66,7 @@ class Verses:
 
     def get_hizb(self, hizb_number, script=1):
         """Get script of a specific hizab."""
+        
         if script == 1:
             script = "imlaei"
         elif script == 2:
