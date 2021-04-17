@@ -2,7 +2,7 @@ import json
 import requests
 
 
-class Quran:
+class Verses:
     """ Class designed to fetch one complete translation, tafsir, recitation or ayah text of whole Quran. """
 
     def __init__(self):
