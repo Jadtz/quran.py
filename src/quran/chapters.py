@@ -6,7 +6,6 @@ class Chapter:
 
     def __init__(self):
         """Initialize"""
-
         self.api = 'https://api.quran.com/api/v4/chapters' 
 
     def chapters_list(self, lang='en'):
