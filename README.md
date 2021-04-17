@@ -22,7 +22,7 @@ vrs.get_page() # returns all verses of a specific Madani Mushaf page(1 to 604).
 vrs.get_hizb() # returns all verses from a specific Hizb( half(1-60).
 vrs.get_rub() # returns all verses of a specific Rub number(1-240).
 vrs.get_verse() # returns a specific ayah with key.
-#example for verse key, "10:5" is 5th ayah of 101th surah.
+#example for verse key, "10:5" is 5th ayah of 10th surah.
 ```
 
 ## Contributing
