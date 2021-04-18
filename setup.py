@@ -11,7 +11,7 @@ setuptools.setup(
     description="An API wrapper for Quran.com written in Python.",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="hhttps://github.com/Jadtz/quran.py",
+    url="https://github.com/Jadtz/quran.py",
     project_urls={
         "Bug Tracker": "https://github.com/Jadtz/quran.py/issues",
     },
