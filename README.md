@@ -16,7 +16,7 @@ pip install quran.py
 from quran.verses import Verses
 vrs = Verses()
 
-vrs.get_chapter() # returns complete chapter from Quran.
+vrs.get_chapter() # returns complete chapter(1-114).
 vrs.get_juz() # returns all verses from a specific juz(1-30).
 vrs.get_page() # returns all verses of a specific Madani Mushaf page(1 to 604).
 vrs.get_hizb() # returns all verses from a specific Hizb( half(1-60).
