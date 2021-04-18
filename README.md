@@ -7,7 +7,7 @@ An easy to use API wrapper for Quran.com v4 written in Python.
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install. ([Git](https://git-scm.com/downloads) required as well.)
 
 ```bash
-pip install git+https://github.com/Jadtz/quran.py.git
+pip install quran.py
 ```
 
 ## Usage
